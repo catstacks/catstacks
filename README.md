@@ -1,8 +1,5 @@
 ### Hello...is it me you're looking for? 👋
 
-<!--
-**catstacks/catstacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🔭 I’m currently working on upskilling through Digital Skills Bootcamps
 
 - 😄 Pronouns: She/Her
